@@ -1,0 +1,5 @@
+true and false 
+1.the same variable names can be used in diffrent fuctions without any conflict.(TRUE)
+2.every called fuction must contain a return statement.(FALSE)
+3.a fuction may contain more then one return statement. (TRUE)
+4.a fuction may be called more than once form any other fuction. (TRUE)  
